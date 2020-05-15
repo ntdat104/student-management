@@ -1,0 +1,22 @@
+{
+  "name": "student-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntdat104/student-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntdat104/student-management/issues"
+  },
+  "homepage": "https://github.com/ntdat104/student-management#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
