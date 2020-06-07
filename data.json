@@ -1,1 +1,26 @@
-[{"maSV":20187302,"firstName":"Đạt","middleName":"Tiến","lastName":"Nguyễn","dateOfBirth":"10.04.2000","className":"ITVUW17A"},{"maSV":20187287,"firstName":"Anh","middleName":"Đức","lastName":"Bùi","dateOfBirth":"09.10.2000","className":"ITVUW17A"},{"maSV":20187289,"firstName":"Anh","middleName":"Việt","lastName":"Dương","dateOfBirth":"08.05.2000","className":"ITVUW17A"}]
+[
+    {
+        "maSV":20187302,
+        "firstName":"Đạt",
+        "middleName":"Tiến",
+        "lastName":"Nguyễn",
+        "dateOfBirth":"10.04.2000",
+        "className":"ITVUW17A"
+    },
+    {
+        "maSV":20187287,
+        "firstName":"Anh",
+        "middleName":"Đức",
+        "lastName":"Bùi",
+        "dateOfBirth":"09.10.2000",
+        "className":"ITVUW17A"
+    },
+    {
+        "maSV":20187289,
+        "firstName":"Anh",
+        "middleName":"Việt",
+        "lastName":"Dương",
+        "dateOfBirth":"08.05.2000",
+        "className":"ITVUW17A"
+    }
+]
